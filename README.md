@@ -1,5 +1,7 @@
 # Image compression by Discrete Hartley Transform
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Platform : GNU Octave](https://img.shields.io/badge/platform-GNU%20Octave-orange)](https://www.gnu.org/software/octave/)
+
 The code of this project is an example of the image compression algorithm by converting it into a discrete form by the Hartley method. 
 The algorithm discolours the original image and converts it into a discrete two-dimensional series. Then decorrelates it and restores the resulting series by converting it back to the image.  
 

@@ -13,3 +13,25 @@ To execute the code in **GNU Octave**, two third-party packages must be installe
 It is possible to do it by a set of the given commands in the command interpreter of the program:
 `pkg install -forge signal` 
 `pkg install -forge image`
+
+____
+
+**Example of compression work**
+
+Source image
+
+![uncompressed](image-compression-by-dht/images/uncompressed.png?raw=true "uncompressed")
+
+Compressed
+
+
+![compressed_0.001](image-compression-by-dht/images/compressed_0.001.png?raw=true "compressed_0.001")
+
+
+![compressed_0.01](image-compression-by-dht/images/compressed_0.01.png?raw=true "compressed_0.01")
+
+
+![compressed_0.005](image-compression-by-dht/images/compressed_0.005.png?raw=true "compressed_0.005")
+
+
+![compressed_0.05](image-compression-by-dht/images/compressed_0.05.png?raw=true "compressed_0.05")
